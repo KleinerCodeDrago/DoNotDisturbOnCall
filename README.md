@@ -5,7 +5,7 @@ Automatically sets your Discord status to 'Do Not Disturb' when you join a voice
 
 ## Installation
 1. Ensure you have [BetterDiscord](https://betterdiscord.app/) installed.
-2. Download `DoNotDisturbOnCall.plugin.js` from [here](https://github.com/KleinerCodeDrago/DoNotDisturbOnCall/raw/main/DoNotDisturbOnCall.plugin.js).
+2. Download `DoNotDisturbOnCall.plugin.js` from [here](https://raw.githubusercontent.com/KleinerCodeDrago/DoNotDisturbOnCall/master/DoNotDisturbOnCall.plugin.js).
 3. Place the file in your BetterDiscord plugins folder. You can find this folder by going to User Settings -> Plugins -> Open Plugin Folder in Discord.
 4. Enable `DoNotDisturbOnCall` in the BetterDiscord plugins tab.
 

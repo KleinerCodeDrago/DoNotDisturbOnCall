@@ -18,7 +18,7 @@ const config = {
         version: "1.0.5",
         description: "Automatically sets your Discord status to 'Do Not Disturb' when you join a voice channel and reverts it back when you leave the channel.",
         github: "https://github.com/YourGitHub/AutoDNDOnCall",
-        github_raw: "https://raw.githubusercontent.com/KleinerCodeDrago/DoNotDisturbOnCall/main/DoNotDisturbOnCall.plugin.js"
+        github_raw: "https://raw.githubusercontent.com/KleinerCodeDrago/DoNotDisturbOnCall/master/DoNotDisturbOnCall.plugin.js"
     },
     defaultConfig: []
 };
